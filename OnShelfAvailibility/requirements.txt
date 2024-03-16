@@ -1,0 +1,8 @@
+numpy==1.26.0
+opencv_python==4.9.0.80
+opencv_python_headless==4.9.0.80
+pandas==2.0.2
+Pillow==10.1.0
+Requests==2.31.0
+torch==2.0.1
+ultralytics==8.1.24
